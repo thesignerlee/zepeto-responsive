@@ -1,0 +1,13 @@
+@media screen and (max-width:1440px) {}
+@media screen and (max-width:1024px) {
+    body {padding: clac(100% - 15px);}
+    header .nav,
+    main .campaign3 .container a:nth-child(5) {display: none;
+    }
+}
+@media screen and (max-width:768px) {
+    main .campaign2 .container .wrap2:last-child,
+    main .campaign3 .container a:nth-child(4)
+    {display: none;}
+    footer .f_r {opacity: 0;}
+}
