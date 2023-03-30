@@ -4,6 +4,7 @@
     header .nav,
     main .campaign3 .container a:nth-child(5) {display: none;
     }
+    main .banner .container video {width: auto; height:100%;}
 }
 @media screen and (max-width:768px) {
     main .campaign2 .container .wrap2:last-child,
